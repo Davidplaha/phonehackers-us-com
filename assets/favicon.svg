@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HireAHackers favicon">
+  <rect width="64" height="64" rx="14" fill="#143d4f"/>
+  <path d="M14 18h8v11h20V18h8v28h-8V36H22v10h-8V18Z" fill="#f8faf6"/>
+  <path d="M32 11 51 18v12c0 12-7 20-19 24-12-4-19-12-19-24V18l19-7Z" fill="none" stroke="#f5bd4f" stroke-width="4" stroke-linejoin="round"/>
+</svg>

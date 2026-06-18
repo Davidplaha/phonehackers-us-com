@@ -1,0 +1,19 @@
+{
+  "name": "HireAHackers.us.com",
+  "short_name": "HireAHackers",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#143d4f",
+  "background_color": "#f8faf6",
+  "display": "browser"
+}
