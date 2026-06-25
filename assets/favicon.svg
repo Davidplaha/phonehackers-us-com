@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HireAHackers favicon">
-  <rect width="64" height="64" rx="14" fill="#143d4f"/>
-  <path d="M14 18h8v11h20V18h8v28h-8V36H22v10h-8V18Z" fill="#f8faf6"/>
-  <path d="M32 11 51 18v12c0 12-7 20-19 24-12-4-19-12-19-24V18l19-7Z" fill="none" stroke="#f5bd4f" stroke-width="4" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PhoneHackers favicon">
+  <rect width="64" height="64" rx="14" fill="#122c34"/>
+  <path d="M20 10h24a6 6 0 0 1 6 6v32a6 6 0 0 1-6 6H20a6 6 0 0 1-6-6V16a6 6 0 0 1 6-6Z" fill="none" stroke="#e8b85a" stroke-width="4"/>
+  <path d="M24 20h8c6 0 10 3 10 9s-4 9-10 9h-2v8h-6V20Zm6 12h2c3 0 4-1 4-3s-1-3-4-3h-2v6Z" fill="#f7f4ec"/>
+  <circle cx="32" cy="49" r="2.5" fill="#e8b85a"/>
 </svg>

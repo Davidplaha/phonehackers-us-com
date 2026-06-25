@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hireahackers.us.com/sitemap.xml
+Sitemap: https://phonehackers.us.com/sitemap.xml

@@ -1,6 +1,6 @@
 {
-  "name": "HireAHackers.us.com",
-  "short_name": "HireAHackers",
+  "name": "PhoneHackers.us.com",
+  "short_name": "PhoneHackers",
   "icons": [
     {
       "src": "/apple-touch-icon.png",
@@ -13,7 +13,7 @@
       "type": "image/x-icon"
     }
   ],
-  "theme_color": "#143d4f",
-  "background_color": "#f8faf6",
+  "theme_color": "#122c34",
+  "background_color": "#f5f1e8",
   "display": "browser"
 }
