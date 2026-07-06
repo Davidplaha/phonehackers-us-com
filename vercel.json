@@ -1,6 +1,17 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.phonehackers.us.com"
+        }
+      ],
+      "destination": "https://phonehackers.us.com/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
